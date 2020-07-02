@@ -2,8 +2,7 @@
 
 countdown = 10 
 
-while countdown < 10 do 
-  break if countdown == 0
-puts "Happy New Years"
+while countdown >= 1 do 
+puts count
 
 countdown = countdown - 1 
