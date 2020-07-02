@@ -3,8 +3,8 @@
 countdown = 10 
 
 while countdown >= 1 do 
-puts count
-count -= 1 
+puts countdown
+countdown -= 1 
 
 end 
 
